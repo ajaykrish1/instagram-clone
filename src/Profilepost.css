@@ -1,0 +1,30 @@
+.post1 {
+  background-color: white;
+  max-width: 400px;
+
+  margin-bottom: 45px;
+  padding-bottom: 30px;
+}
+.post__image {
+  width: 80%;
+  object-fit: contain;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.post__text {
+  border-top: 1px solid lightgray;
+  font-weight: normal;
+  align-items: center;
+  padding: 30px;
+  padding-bottom: 20px;
+}
+.post__comm {
+  font-weight: normal;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}

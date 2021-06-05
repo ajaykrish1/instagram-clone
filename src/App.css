@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+}
+.app {
+  background-color: #fafafa;
+}
+
+.app__header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 20px;
+  background-color: white;
+  border-bottom: 1px solid lightgrey;
+  object-fit: contain;
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.app__form {
+  display: flex;
+  flex-direction: column;
+}
+.app__rem {
+  padding: 100px;
+  margin-left: 15%;
+}
+.app__rem1 {
+  padding: 100px;
+  margin-left: 15%;
+  display: flex;
+}
